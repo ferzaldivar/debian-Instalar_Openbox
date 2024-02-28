@@ -6,11 +6,11 @@ apt update && apt upgrade -y
 
 #instalar openbox junto con algunas utilidades
 
-apt install -y openbox obconf lightdm tint2 xfce4-terminal thunar x11-xserver-utils arandr pnmixer pulseaudio xfce4-notifyd xfce4-power-manager picom htop neofetch fileroler lxappearance
+apt install -y openbox obconf lightdm tint2 xfce4-terminal thunar x11-xserver-utils arandr pnmixer pulseaudio xfce4-notifyd xfce4-power-manager picom htop neofetch file-roller lxappearance
 
 #algunas herramientas: como la calculadora, capturador de pantalla y un calendario
 
-apt install -y galculator xfce4-screenshoter gsimplecal
+apt install -y galculator xfce4-screenshooter gsimplecal
 
 #instalar una aplicacion para imagenes, un editor de texto, un navegador y un lector de pdf
 
